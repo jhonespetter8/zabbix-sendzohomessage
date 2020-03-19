@@ -2,12 +2,12 @@
  
 import requests,json, sys
  
-BOT_TOKEN='145c0e4eca9be181c9751a51af8b6de0'
+BOT_TOKEN='XXX'
 MESSAGE=sys.argv[1]
-URLBOT='https://cliq.zoho.com/api/v2/bots/zabbixdatacenter/message'
+URLBOT='https://cliq.zoho.com/api/v2/bots/XXX/message'
 HEADERS = {
 	"Content-type": "application/json", 
-	"Authorization": "Zoho-authtoken 145c0e4eca9be181c9751a51af8b6de0"
+	"Authorization": "Zoho-authtoken XXX"
 	}
 DATATEXTO = {
 	"text": "Texto enviado ao bot!", 
