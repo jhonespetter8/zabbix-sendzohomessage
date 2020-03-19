@@ -11,5 +11,5 @@ pip install requirements.txt
 Usage
 =====
 <pre><code>
-./sendzohomessage.py "ASSUNTO" "MENSAGEM" "DESTINO"
+./sendzohomessage.py "DESTINATION" "SUBJECT" "MESSAGE" 
 </pre></code>
