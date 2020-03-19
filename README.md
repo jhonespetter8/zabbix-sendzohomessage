@@ -1,7 +1,6 @@
 Requirements
 =====
 <pre><code>
-
 # Generate requiriments
 pip freeze > requirements.txt
 
