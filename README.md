@@ -20,6 +20,12 @@ pip install requirements.txt
 
 Usage
 =====
+
+Add token in variable
+<pre><code>
+token="YOURTOKEN"
+</pre></code>
+
 <pre><code>
 ./sendzohomessage.py "DESTINATION" "SUBJECT" "MESSAGE" 
 </pre></code>
