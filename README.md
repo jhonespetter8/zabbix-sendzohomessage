@@ -27,6 +27,7 @@ token="YOURTOKEN"
 </pre></code>
 
 Execute script
+> DESTINATION is name for channel or bot
 <pre><code>
 ./sendzohomessage.py "DESTINATION" "SUBJECT" "MESSAGE" 
 </pre></code>
