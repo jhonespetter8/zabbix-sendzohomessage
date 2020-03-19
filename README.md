@@ -26,6 +26,7 @@ Add token in variable
 token="YOURTOKEN"
 </pre></code>
 
+Execute script
 <pre><code>
 ./sendzohomessage.py "DESTINATION" "SUBJECT" "MESSAGE" 
 </pre></code>
