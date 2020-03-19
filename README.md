@@ -1,7 +1,7 @@
 Requirements
 =====
 <pre><code>
-# Generate requiriments
+# Generate requirements
 pip freeze > requirements.txt
 
 pip install --upgrade pip
