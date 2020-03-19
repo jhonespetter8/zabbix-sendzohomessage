@@ -1,7 +1,3 @@
-# zabbix-sendzohobot
-
-
-
 Requirements
 =====
 <pre><code>
