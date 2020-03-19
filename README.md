@@ -4,7 +4,7 @@ Script submit message to Zoho Cliq
 
 Documentation Zoho
 =====
-- [Documentation Zoho](https://help.zoho.com/portal/en/community/topic/cliq-bots-post-message-to-a%C2%A0bot-using-the-command-line)
+- [Documentation Zoho for post message using cli](https://help.zoho.com/portal/en/community/topic/cliq-bots-post-message-to-a%C2%A0bot-using-the-command-line)
 - [Generate token Zoho](https://accounts.zoho.com/apiauthtoken/create?SCOPE=ZohoCliq/InternalAPI)
 - [Generate model message](https://cliq.zoho.com/messagebuilder)
 
