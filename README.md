@@ -12,8 +12,6 @@ Documentation Zoho
 Requirements for code
 =====
 <pre><code>
-# Generate requirements
-# pip freeze > requirements.txt
 pip install --upgrade pip
 pip install requirements.txt
 </pre></code>
